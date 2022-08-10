@@ -1,5 +1,4 @@
-# VScode-configures-the-AHK-environment-under-the-Win10-system
-Win10系统下VScode配置AHK环境
+# Win10系统下VScode配置AHK环境
 
 本文默认已安装autohotkey。
 
